@@ -1,0 +1,7 @@
+boto3>=1.28.59
+anthropic[bedrock]
+langchain_aws==0.1.6
+botocore 
+crewai 
+crewai[tools]
+IPython
