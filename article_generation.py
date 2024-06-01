@@ -1,4 +1,3 @@
-#7a2ac8b150a140e19e406b9de97c99b6
 import boto3
 import json
 from langchain_aws import ChatBedrock
